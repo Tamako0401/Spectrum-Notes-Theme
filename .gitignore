@@ -1,0 +1,6 @@
+scratch/
+node_modules/
+preview-vault/.obsidian/workspace*.json
+output/*.zip
+output/verification.json
+preview-vault/.obsidian/core-plugins.json
